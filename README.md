@@ -4,6 +4,7 @@ Anglynx, based on the Orion Blasters Lynx
 
 
 The Anglynx Project (aka Unreliablynx and Unreliaminx) is an ergonomic change to the Orion Blasters Lynx springer blaster which requires mechanical changes to allow it to feed darts from a standard halfdart magazine significantly angled forward.
+
 Major changes to the original design:
  - a shortened and reprofiled transfer bar
  - an articulating ram arm
