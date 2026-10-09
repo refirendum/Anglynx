@@ -25,3 +25,7 @@ Minor, but significant changes:
 
 The Anglynx is based on the Lynx, whereas the Anglminx is based on the Minx, and is also the more fully documented variant.
 The extra parts not listed in the BOM for the Anglminx are an extra 5mm spring.
+Performance numbers will vary, and depend greatly on your print quality and tuning. It likely will not match a standard lynx or minx 1 for 1, but is not functionally too different in the firing mechanism.
+
+Anyways, enjoy this silly lil thing.
+~refi
